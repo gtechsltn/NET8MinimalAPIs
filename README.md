@@ -3,6 +3,8 @@
 + https://github.com/gtechsltn/AspNetCoreWebAPI8
 + https://github.com/gtechsltn/CleanArch
 + https://github.com/gtechsltn/MinimalApi
+
+# References
 + How to use the new .NET 8 Identity API Endpoints along with email service integration for your SPA
 + https://medium.com/@anaschahid/how-to-use-the-new-net-8-identity-api-endpoints-along-with-email-service-integration-for-your-spa-79d807f9a343
 + How to make your API faster in ASP.NET 8
