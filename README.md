@@ -1,2 +1,2 @@
-# NET8MinimalAPIs
+# NET8 Minimal APIs
 NET8 Minimal APIs
