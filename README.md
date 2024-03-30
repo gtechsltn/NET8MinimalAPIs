@@ -4,6 +4,9 @@
 + https://github.com/gtechsltn/CleanArch
 + https://github.com/gtechsltn/MinimalApi
 
+# Deploy
+![Publish to IIS](https://github.com/gtechsltn/NET8MinimalAPIs/blob/main/docs/assets/NET8_Publish.png)
+
 # References
 + How to use the new .NET 8 Identity API Endpoints along with email service integration for your SPA
 + https://medium.com/@anaschahid/how-to-use-the-new-net-8-identity-api-endpoints-along-with-email-service-integration-for-your-spa-79d807f9a343
