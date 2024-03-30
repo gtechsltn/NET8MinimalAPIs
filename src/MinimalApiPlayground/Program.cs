@@ -24,7 +24,8 @@ if (!app.Environment.IsDevelopment())
     // The default HSTS value is 30 days. You may want to change this for production scenarios, see https://aka.ms/aspnetcore-hsts.
     app.UseHsts();
 }
-else
+
+if (!app.Environment.IsDevelopment())
 {
     app.UseSwagger(); //=> Swashbuckle.AspNetCore v6.5.0
     app.UseSwaggerUI(); //=> Swashbuckle.AspNetCore v6.5.0
